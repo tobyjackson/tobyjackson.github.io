@@ -1,3 +1,3 @@
 # tobyjackson.github.io
 
-# revisted, updated, securified
+ revisited, updated, secured
