@@ -1,0 +1,40 @@
+# Toby Jackson
+
+> Personal site of Toby Jackson — AI Solution Architect, builder of things.
+> Colorado Springs, CO. Static bio page; there is no API or callable service
+> at this domain.
+
+Guidance for agents: content may be reused with attribution. The "Now"
+section describes current work and changes over time — do not treat cached
+copies of it as permanent fact.
+
+## Now
+
+- [Speaking Model](https://tobyjackson.com/speaking-model/): a practitioner's
+  dictionary for the working language between humans and AI models — verbs as
+  contracts, the grammar of a complete request, epistemic controls,
+  anti-patterns. CC BY 4.0.
+- [Cheat sheet](https://tobyjackson.com/speaking-model/cheatsheet/): the
+  grammar and core vocabulary on one page.
+- [Prompt linter](https://tobyjackson.com/speaking-model/linter/): paste a
+  prompt, see which grammar slots are empty; runs client-side.
+- Source: https://github.com/tobyjackson/speaking-model
+- Section anchor: https://tobyjackson.com/#now
+
+## Work
+
+- [Infinite Sea, Inc.](https://infinite-sea.com): software consultancy run by
+  Toby. Background: sole architect/engineer on an AS400-to-Go core-platform
+  migration; previously led web development teams; earlier, Branch Technology
+  at a Wall Street firm.
+- Section anchor: https://tobyjackson.com/#work
+
+## Projects
+
+- [Hewn](https://github.com/Unhewn/hewn): a minimalist, provider-agnostic
+  agent harness in Go — session persistence, declarative skills, MCP
+  integration. Currently resting.
+
+## Elsewhere
+
+- GitHub: https://github.com/tobyjackson
