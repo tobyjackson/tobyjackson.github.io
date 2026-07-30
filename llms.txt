@@ -31,9 +31,9 @@ copies of it as permanent fact.
 
 ## Projects
 
-- [Hewn](https://github.com/Unhewn/hewn): a minimalist, provider-agnostic
+- [Gapnop](https://github.com/tobyjackson/gapnop): a minimalist, provider-agnostic
   agent harness in Go — session persistence, declarative skills, MCP
-  integration. Currently resting.
+  integration. Actively in progress.
 
 ## Elsewhere
 

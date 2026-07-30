@@ -26,10 +26,10 @@ Street firm.
 
 ## Projects
 
-Hewn (https://github.com/Unhewn/hewn) — a minimalist, provider-agnostic agent
+Gapnop (https://github.com/tobyjackson/gapnop) — a minimalist, provider-agnostic agent
 harness in Go, with session persistence, declarative skills, and MCP
-integration. An experiment in building the whole loop myself; currently
-resting.
+integration. An experiment in building the whole loop myself, actively in
+progress.
 
 ## Elsewhere
 

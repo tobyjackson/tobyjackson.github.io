@@ -4,7 +4,7 @@ This file tells AI agents how to interact with tobyjackson.com.
 
 ## About
 
-Personal site for Toby Jackson, a software architect based in Colorado Springs, CO. Runs Infinite Sea, Inc. (a software consultancy) and builds Hewn, an open-source Go agent harness, in the open.
+Personal site for Toby Jackson, a software architect based in Colorado Springs, CO. Runs Infinite Sea, Inc. (a software consultancy) and builds Gapnop, an open-source Go agent harness, in the open.
 
 ## Guidelines
 
