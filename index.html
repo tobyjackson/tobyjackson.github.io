@@ -16,8 +16,9 @@
 <meta property="og:image:height" content="630">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<link rel="preload" as="image" href="hero.jpg" fetchpriority="high">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -51,12 +52,15 @@
 </script>
 </head>
 <body>
-<main>
-<header>
+<div class="hero">
+<img class="hero-photo" src="hero.jpg" alt="Mountain range at dusk, Breckenridge, Colorado" width="1920" height="1280" fetchpriority="high">
+<div class="hero-content">
+<p class="kicker">Colorado Springs, CO</p>
 <h1>Toby Jackson</h1>
 <p class="tagline">AI Solution Architect, builder of things.</p>
-<p class="location">Colorado Springs, CO</p>
-</header>
+</div>
+</div>
+<main>
 <section class="now" id="now">
 <h2>Now</h2>
 <p>
